@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Prateek Pandey</h1>
+<h1 align="left">Konnichiwaa 😊 I'm Prateek Pandey </h1>
 <h3 align="left">Always want to learn something new!</h3>
 
 ![Working Work From Home GIF by Pudgy Penguins](https://github.com/user-attachments/assets/7ef0965d-4d8d-4833-be17-1cd9164b76d0)
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prateekpandey3108@gmail.com**
 
-- ⚡ Fun fact **I dont knowww**
+- 👋 Nice to see you here!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
