@@ -1,5 +1,5 @@
-<h1 align="left">Konnichiwaa 😊 I'm Prateek Pandey </h1>
-<h3 align="left">Always want to learn something new!</h3>
+<h1 align="left">Hey there! 😊 I'm Prateek Pandey </h1>
+<h3 align="left">Always want to experience and learn something new!</h3>
 
 ![Working Work From Home GIF by Pudgy Penguins](https://github.com/user-attachments/assets/7ef0965d-4d8d-4833-be17-1cd9164b76d0)
 
