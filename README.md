@@ -1,5 +1,5 @@
 <h1 align="left">Yo! I'm Prateek </h1>
-<h3 align="left">Always curious and chasing.
+<h3 align="left">Always curious.
 
 <p align="left"> <a href="https://twitter.com/prateek35927107" target="blank"><img src="https://img.shields.io/twitter/follow/prateek35927107?logo=twitter&style=for-the-badge" alt="prateek35927107" /></a> </p>
 
