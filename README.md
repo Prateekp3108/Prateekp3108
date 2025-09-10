@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/prateek35927107" target="blank"><img src="https://img.shields.io/twitter/follow/prateek35927107?logo=twitter&style=for-the-badge" alt="prateek35927107" /></a> </p>
 
--  currently into **Wev Dev**
+-  currently into **Machine Learning**
 
 -  love some **Games** and some **football**
 
