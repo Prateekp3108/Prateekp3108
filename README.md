@@ -1,3 +1,4 @@
+![Header](./github-header-banner.png)
 <h1 align="left">Hey! I'm Prateek </h1>
 <h3 align="left">Always curious.
 
