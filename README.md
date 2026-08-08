@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/prateek35927107" target="blank"><img src="https://img.shields.io/twitter/follow/prateek35927107?logo=twitter&style=for-the-badge" alt="prateek35927107" /></a> </p>
 
--  Currently Studying and Working on **Machine Learning Project** and some **Full Stack Developement**
+-  Currently learning through **Machine Learning Projects** and **Full-Stack Development**, with a focus on building practical, end-to-end applications.
 
 -  reach me **prateekpandey3108@gmail.com**
 
